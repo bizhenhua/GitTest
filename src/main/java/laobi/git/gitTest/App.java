@@ -10,5 +10,7 @@ public class App {
 		System.out.println("ddd = " + ddd);
 		int age = 18;
 		System.out.println("age = " + age);
+		String father = "bzh";
+		System.out.println("father = " + father);
 	}
 }
