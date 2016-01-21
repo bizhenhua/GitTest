@@ -9,5 +9,7 @@ public class App {
 		String name = "tom";
 		System.out.println("name = " + name);
 		System.out.println("aaaaaaaaaaaaaa");
+		String age = "18";
+		System.out.println("age = " + age);
 	}
 }
