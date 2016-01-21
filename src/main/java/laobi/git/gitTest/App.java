@@ -10,5 +10,6 @@ public class App {
 		String jack = "jack";
 		String ddd = "ddd";
 		String rrrr = "cccc";
+		String kkk = "kkk";
 	}
 }
