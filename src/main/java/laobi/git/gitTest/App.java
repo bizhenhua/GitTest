@@ -6,7 +6,7 @@ package laobi.git.gitTest;
  */
 public class App {
 	public static void main(String[] args) {
-		String name = "jack";
-		System.out.println("name = " + name);
+		String tom = "tom";
+		String jack = "jack";
 	}
 }
