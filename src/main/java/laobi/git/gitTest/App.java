@@ -8,7 +8,7 @@ public class App {
 	public static void main(String[] args) {
 		String name = "jack";
 		System.out.println("name = " + name);
-		String age = "18";
+		String age = "20";
 		System.out.println("age = " + age);
 	}
 }
