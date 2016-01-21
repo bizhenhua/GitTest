@@ -12,5 +12,7 @@ public class App {
 		System.out.println("age = " + age);
 		String grandfather = "bzh";
 		System.out.println("grandfather = " + grandfather); 
+		String mother = "jenny";
+		System.out.println("mother = " + mother);
 	}
 }
