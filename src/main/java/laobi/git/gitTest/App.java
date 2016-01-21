@@ -10,5 +10,6 @@ public class App {
 		System.out.println(jack);
 		String name = "xxxx";
 		System.out.println(name);
+		System.out.println("aaaa");
 	}
 }
