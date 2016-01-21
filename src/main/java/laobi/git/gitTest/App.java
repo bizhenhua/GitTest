@@ -7,9 +7,5 @@ package laobi.git.gitTest;
 public class App {
 	public static void main(String[] args) {
 		String tom = "tom";
-		String jack = "jack";
-		String ddd = "ddd";
-		String rrrr = "cccc";
-		String kkk = "kkk";
 	}
 }
