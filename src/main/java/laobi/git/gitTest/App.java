@@ -9,5 +9,6 @@ public class App {
 		String jack = "jack";
 		System.out.println(jack);
 		String name = "xxxx";
+		String name = "xxxx";
 	}
 }
