@@ -9,5 +9,6 @@ public class App {
 		String tom = "tom";
 		String jack = "jack";
 		String ddd = "ddd";
+		String cccc = "cccc";
 	}
 }
