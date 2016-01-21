@@ -10,7 +10,7 @@ public class App {
 		System.out.println("name = " + name);
 		int age = 18;
 		System.out.println("age = " + age);
-		String nn = "bzh";
-		System.out.println("nn = " + nn); 
+		String father = "bzh";
+		System.out.println("father = " + father); 
 	}
 }
