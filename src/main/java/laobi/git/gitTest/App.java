@@ -16,5 +16,7 @@ public class App {
 		System.out.println("mother = " + mother);
 		String grandmother = "grandmother";
 		System.out.println("grandmother = " + grandmother);
+		String mothermother = "mothermother";
+		System.out.println("mothermother = " + mothermother);
 	}
 }
