@@ -10,15 +10,5 @@ public class App {
 		System.out.println("name = " + name);
 		int age = 18;
 		System.out.println("age = " + age);
-		String grandfather = "bzh";
-		System.out.println("grandfather = " + grandfather); 
-		String mother = "jenny";
-		System.out.println("mother = " + mother);
-		String grandmother = "grandmother";
-		System.out.println("grandmother = " + grandmother);
-		String mothermother = "mothermother";
-		System.out.println("mothermother = " + mothermother);
-		String aaaaa = "aaaaa";
-		System.out.println("aaaaa = " + aaaaa);
 	}
 }
