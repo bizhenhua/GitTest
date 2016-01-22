@@ -9,6 +9,7 @@ public class App {
 		String ya = "ya";
 		String la = "la";
 		String lb = "lb";
+		String yb = "yb";
 		String name = "tom";
 		System.out.println("name = " + name);
 	}
