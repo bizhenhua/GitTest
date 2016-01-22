@@ -18,5 +18,6 @@ public class App {
 		String ddd = "bgs";
 		String fff = "bgs";
 		String ggg = "bgs";
+		String hhh = "bgs";
 	}
 }
