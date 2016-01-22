@@ -17,5 +17,6 @@ public class App {
 		String ccc = "bgs";
 		String ddd = "bgs";
 		String fff = "bgs";
+		String ggg = "bgs";
 	}
 }
