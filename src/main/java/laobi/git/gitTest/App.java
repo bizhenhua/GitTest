@@ -6,8 +6,6 @@ package laobi.git.gitTest;
  */
 public class App {
 	public static void main(String[] args) {
-		String la = "la";
-		String yb = "yb";
-		String lc = "lc";
+		String ya = "ya";
 	}
 }
