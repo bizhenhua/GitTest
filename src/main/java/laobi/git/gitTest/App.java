@@ -9,5 +9,7 @@ public class App {
 		String master = "master";
 		String dev = "dev";
 		System.out.println(dev);
+		System.out.println(master);
+		System.out.println("hello master");
 	}
 }
