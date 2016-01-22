@@ -8,5 +8,6 @@ public class App {
 	public static void main(String[] args) {
 		String master = "master";
 		String dev = "dev";
+		System.out.println(dev);
 	}
 }
