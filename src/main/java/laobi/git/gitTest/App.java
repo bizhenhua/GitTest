@@ -10,6 +10,5 @@ public class App {
 		System.out.println("name = " + name);
 		System.out.println("aaaaaaaaaaaaaa");
 		System.out.println("bbbbbbbbbbbb");
-		System.out.println("ccccc");
 	}
 }
