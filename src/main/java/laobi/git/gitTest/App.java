@@ -9,5 +9,6 @@ public class App {
 		String name = "tom";
 		String age = "20";
 		String father = "bzh";
+		String mother = "jenny";
 	}
 }
