@@ -15,6 +15,5 @@ public class App {
 		System.out.println();
 		String aaa = "bgs";
 		String ccc = "bgs";
-		String bbb = "bgs";
 	}
 }
