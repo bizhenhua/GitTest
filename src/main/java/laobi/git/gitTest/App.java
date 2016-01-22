@@ -9,5 +9,6 @@ public class App {
 		String name = "jack";
 		System.out.println(name);
 		int age = 18;
+		System.out.println(age);
 	}
 }
