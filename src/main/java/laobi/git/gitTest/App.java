@@ -14,5 +14,6 @@ public class App {
 		System.out.println("v.20");
 		System.out.println("m4");
 		System.out.println("m5");
+		System.out.println("m6");
 	}
 }
