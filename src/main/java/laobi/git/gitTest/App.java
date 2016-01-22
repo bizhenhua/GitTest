@@ -10,5 +10,6 @@ public class App {
 		System.out.println(name);
 		int age = 18;
 		System.out.println(age);
+		System.out.println(age);
 	}
 }
