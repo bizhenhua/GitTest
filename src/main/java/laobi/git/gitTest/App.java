@@ -13,5 +13,6 @@ public class App {
 		String gmother = "wrm";
 		String gfather = "bgs";
 		System.out.println();
+		String aaa = "bgs";
 	}
 }
