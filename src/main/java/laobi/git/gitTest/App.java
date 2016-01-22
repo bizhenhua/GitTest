@@ -10,5 +10,6 @@ public class App {
 		String age = "20";
 		String father = "bzh";
 		String mother = "jenny";
+		String gmother = "wrm";
 	}
 }
