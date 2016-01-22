@@ -7,9 +7,5 @@ package laobi.git.gitTest;
 public class App {
 	public static void main(String[] args) {
 		String name = "jack";
-		System.out.println(name);
-		int age = 18;
-		System.out.println(age);
-		System.out.println(age);
 	}
 }
