@@ -6,8 +6,6 @@ package laobi.git.gitTest;
  */
 public class App {
 	public static void main(String[] args) {
-		String dev = "dev";
-		System.out.println(dev);
-		int age=10;
+		String master = "master";
 	}
 }
