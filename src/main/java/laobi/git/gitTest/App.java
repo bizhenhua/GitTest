@@ -7,6 +7,5 @@ package laobi.git.gitTest;
 public class App {
 	public static void main(String[] args) {
 		String master = "master";
-		System.out.println(master);
 	}
 }
